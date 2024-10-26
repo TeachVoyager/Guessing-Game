@@ -80,21 +80,13 @@ Example Gameplay
 
 Future Improvements
 
-	•	Add more difficulty levels or customizable ranges
-	•	Multiplayer mode: Take turns guessing with friends
-	•	Score tracking: Keep track of wins and guesses over multiple rounds
-
-Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-License
-
-This project is licensed under the MIT License.
+	1. Add more difficulty levels or customizable ranges
+	2. Multiplayer mode: Take turns guessing with friends
+	3. Score tracking: Keep track of wins and guesses over multiple rounds
 
 Author
 
-	•	Name: Xaiver Hickey
-	•	GitHub: TechVoyager
+	Name: Xaiver Hickey
+	GitHub: TechVoyager
 
 This updated version should display correctly on GitHub, with proper formatting for lists and code blocks. Let me know if you need further adjustments!
