@@ -88,5 +88,3 @@ Author
 
 	Name: Xaiver Hickey
 	GitHub: TechVoyager
-
-This updated version should display correctly on GitHub, with proper formatting for lists and code blocks. Let me know if you need further adjustments!
