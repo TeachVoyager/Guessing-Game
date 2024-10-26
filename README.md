@@ -36,7 +36,7 @@ Installation
 
 	1.	Clone the repository:
 
-git clone https://github.com/YOUR_GITHUB_USERNAME/Number-Mystery.git
+git clone https://github.com/TechVoyager/Number-Mystery.git
 
 
 	2.	Navigate to the project directory:
@@ -63,7 +63,7 @@ Code Structure
 
 Example Gameplay
 
-``` Welcome to Mysterious Number!
+Welcome to Mysterious Number!
 1. Easy (1-10)
 2. Medium (1-50)
 3. Hard (1-100)
@@ -83,7 +83,9 @@ Future Improvements
 	•	Multiplayer mode: Take turns guessing with friends
 	•	Score tracking: Keep track of wins and guesses over multiple rounds
 
+
 Author
 
 	•	Name: Xaiver Hickey
-	•	GitHub: Your GitHub Profile
+	•	GitHub: TechVoyager
+
