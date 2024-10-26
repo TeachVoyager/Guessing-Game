@@ -28,9 +28,11 @@ How to Play
 	•	4: Quit (Exit the game)
 
 	2: Guess the Number: The game prompts you to guess a number within the range for the selected difficulty.
+
 	3.	Receive Feedback: After each guess, the game provides feedback:
-	 •	“Too low” if your guess is less than the target number.
-	 •	“Too high” if your guess is greater than the target number.
+	  •	“Too low” if your guess is less than the target number.
+	  •	“Too high” if your guess is greater than the target number.
+
 	4.	Win or Lose: If you guess the correct number within the allowed attempts, you win! If you use up all attempts, the correct number is revealed, and the game ends.
 
 Installation
