@@ -64,19 +64,19 @@ Code Structure
 
 Example Gameplay
 
-Welcome to Mysterious Number!
-1. Easy (1-10)
-2. Medium (1-50)
-3. Hard (1-100)
-4. Quit
-==][====================================][==
-Enter your choice (1-4): 2
+	Welcome to Mysterious Number!
+	1. Easy (1-10)
+	2. Medium (1-50)
+	3. Hard (1-100)
+	4. Quit
+	==][====================================][==
+	Enter your choice (1-4): 2
 
-Guess a number between 1 and 50: 25
-Too low, try again.
+	Guess a number between 1 and 50: 25
+	Too low, try again.
 
-Guess a number between 1 and 50: 37
-Congratulations, you guessed the number in 2 guesses!
+	Guess a number between 1 and 50: 37
+	Congratulations, you guessed the number in 2 guesses!
 
 Future Improvements
 
