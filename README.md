@@ -37,21 +37,19 @@ How to Play
 
 Installation
 
-	1.	Clone the repository:
+1.	Clone the repository:
 
-git clone https://github.com/TechVoyager/Number-Mystery.git
-
-
-	2.	Navigate to the project directory:
-
-cd Number-Mystery
+		git clone https://github.com/TechVoyager/Number-Mystery.git
 
 
-	3.	Run the game:
+2.	Navigate to the project directory:
 
-python number_mystery.py
+		cd Number-Mystery
 
 
+3.	Run the game:
+
+		python number_mystery.py
 
 Requirements
 
