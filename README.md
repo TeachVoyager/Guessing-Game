@@ -26,10 +26,11 @@ How to Play
 	•	2: Medium (1-50)
 	•	3: Hard (1-100)
 	•	4: Quit (Exit the game)
-	2.	Guess the Number: The game prompts you to guess a number within the range for the selected difficulty.
+
+	2: Guess the Number: The game prompts you to guess a number within the range for the selected difficulty.
 	3.	Receive Feedback: After each guess, the game provides feedback:
-	•	“Too low” if your guess is less than the target number.
-	•	“Too high” if your guess is greater than the target number.
+			•	“Too low” if your guess is less than the target number.
+		 •	“Too high” if your guess is greater than the target number.
 	4.	Win or Lose: If you guess the correct number within the allowed attempts, you win! If you use up all attempts, the correct number is revealed, and the game ends.
 
 Installation
@@ -83,9 +84,17 @@ Future Improvements
 	•	Multiplayer mode: Take turns guessing with friends
 	•	Score tracking: Keep track of wins and guesses over multiple rounds
 
+Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+
+License
+
+This project is licensed under the MIT License.
 
 Author
 
 	•	Name: Xaiver Hickey
 	•	GitHub: TechVoyager
 
+This updated version should display correctly on GitHub, with proper formatting for lists and code blocks. Let me know if you need further adjustments!
