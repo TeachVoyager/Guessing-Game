@@ -1,10 +1,5 @@
 # Number Mystery
 
-Project Dates
-
-	•	Started: April 26, 2023
-	•	Finished: April 29, 2023
-
 Description
 
 Number Mystery is a fun and interactive number-guessing game created in Python. Players select a difficulty level, then attempt to guess a randomly generated number within a limited number of tries. The game provides hints along the way, making it challenging yet enjoyable for players of all skill levels.
